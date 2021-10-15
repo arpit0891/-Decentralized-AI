@@ -1,1 +1,1 @@
-# -Decentralized-AI
+# Decentralized-AI
